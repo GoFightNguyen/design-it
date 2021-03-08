@@ -9,7 +9,7 @@ It also grounds the solution exploration by elevating the purpose of building so
 
 ## The Four Principles of Design Thinking
 1. Human Rule: all design is social in nature
-2. Ambiguity Rule: presever ambiguity
+2. Ambiguity Rule: preserve ambiguity
 3. Redesign Rule: all design is redesign
 4. Tangibility Rule: make ideas tangible to facilitate communication
 
