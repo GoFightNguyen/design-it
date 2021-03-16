@@ -18,6 +18,7 @@ After creating a stakeholder map, look for candidates for interviews and further
 - are there stakeholders with potential conflicts of interest?
 
 Here is a partial stakeholder map purposefully kept simply by removing some stakeholders:
+![stakeholder-map](stakeholder-map.jpg)
 
 ## Discover the Business Goals
 > __Business goals__ describe what stakeholders hope to accomplish with the software; the fundamental purpose.
