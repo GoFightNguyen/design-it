@@ -73,7 +73,7 @@ One strategy for avoiding dead ends and wrong turns is to defer making binding d
 Delaying design decisions until they must be decided creates time for research and exploration.
 
 How do we know when the decision must be made?
-The _least responsible moment_ is when a decision must be made to avoid losing important design alternatives.
+The _last responsible moment_ is when a decision must be made to avoid losing important design alternatives.
 The _most responsible moment_ is when a design decision has the greatest positive impact on the software system.
 Ideally, these two moments are at the same time.
 Make design decisions at the most responsible moment, which is often earlier than we think.
