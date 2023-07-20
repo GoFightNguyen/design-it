@@ -44,7 +44,7 @@ Great business goal statements are measurable and have clear success criteria.
 Business goal statements include:
 - subject: a specific person or role
 - outcome: express the stakeholder's need as a measurable outcome. How does the world change if the system is successful?
-- context: context shares an insight about a stakeholder's need and helps build empathy. Ideally, cointext is insightful rather than completely obvious
+- context: context shares an insight about a stakeholder's need and helps build empathy. Ideally, context is insightful rather than completely obvious
 
 Most systems have 3-5 business goals; anymore becomes confusing and hard to remember.
 If working with many stakeholders, it is useful to records goals' relative importance (for example, must-have or nice-to-have).
